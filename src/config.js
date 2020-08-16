@@ -27,8 +27,8 @@ module.exports = {
         {
             location : 'Suswa',
             company: 'Narok Water and Sewerage Services Co., ltd.',
-            url: 'https://narok.water-gis.com/#11.24/-0.9628/36.3753',
-            lnglat: [36.3753,-0.9628]
+            url: 'https://narok.water-gis.com/#11.24/-1.05025/36.33058',
+            lnglat: [36.33058,-1.05025]
         },
         {
             location : 'Kilgoris',
