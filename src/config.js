@@ -43,6 +43,12 @@ module.exports = {
             lnglat: [36.07409,-0.28945]
         },
         {
+            location : 'Nanyuki',
+            company: 'Nanyuki Water and Sewerage Co., ltd.',
+            url: 'https://nawasco.github.io/mapboxgljs/#13/-0.02449/37.11904',
+            lnglat: [37.119039,-0.024493]
+        },
+        {
             location : 'Rwanda',
             company: 'Water and Sanitation Corporation, ltd.',
             url: 'https://rural.water-gis.com/#12',
